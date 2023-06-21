@@ -1,5 +1,4 @@
-<style>
-      body {
+body {
         font-family: Arial, sans-serif;
         margin: 0;
         padding: 0;
@@ -7,7 +6,7 @@
       }
 
       nav {
-        background-color: ;
+        background-color: green;
         padding: 10px;
         text-align: center;
       }
@@ -22,10 +21,4 @@
         text-decoration: underline;
       }
 
-      footer {
-        background-color: ;
-        color: rgb(0, 0, 0);
-        padding: 20px;
-        text-align: center;
-      }
     </style>
